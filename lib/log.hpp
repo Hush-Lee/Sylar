@@ -11,6 +11,7 @@ namespace sylar {
 	public:
 		virtual ~LogAppender();
 	private:
+		
 
 	}
 	class LogFormatter{
